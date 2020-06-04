@@ -1,0 +1,84 @@
+{
+    "students": [
+        {
+            "id": 0,
+            "name": "Aaron",
+            "surname": "Sorkin"
+        },
+        {
+            "id": 1,
+            "name": "Ethan",
+            "surname": "Coen"
+        },
+        {
+            "id": 2,
+            "name": "Joel",
+            "surname": "Coen"
+        },
+        {
+            "id": 3,
+            "name": "Quentin",
+            "surname": "Tarantino"
+        }
+    ],
+    "courses": [
+        {
+            "id": 0,
+            "name": "Screenwriting Masterclass"
+        },
+        {
+            "id": 1,
+            "name": "How to make pierogi"
+        }
+    ],
+    "marks": [
+        {
+            "id": 0,
+            "mark": 5.0,
+            "student_id": 0,
+            "course_id": 0
+        },
+        {
+            "id": 1,
+            "mark": 2.0,
+            "student_id": 0,
+            "course_id": 1
+        },
+        {
+            "id": 2,
+            "mark": 5.0,
+            "student_id": 1,
+            "course_id": 0
+        },
+        {
+            "id": 3,
+            "mark": 3.0,
+            "student_id": 1,
+            "course_id": 1
+        },
+        {
+            "id": 4,
+            "mark": 5.0,
+            "student_id": 2,
+            "course_id": 0
+        },
+        {
+            "id": 5,
+            "mark": 3.5,
+            "student_id": 2,
+            "course_id": 1
+        },
+        {
+            "id": 6,
+            "mark": 5.0,
+            "student_id": 3,
+            "course_id": 0
+        },
+        {
+            "id": 7,
+            "mark": 5.0,
+            "student_id": 3,
+            "course_id": 1
+        }
+    ]
+}

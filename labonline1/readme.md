@@ -1,0 +1,3 @@
+All of this Python thing is really new to me so evrything i did here is basically a thing i had to learn on the fly. Although i had some expierience with coding games which came in very handy during the work on this task.
+
+Also i didn't fully understand the extent of the improvements we were to apply, so in retrospect the solution could've an abstract event class which would omit the Named Tuples, and from which all the variations would stem.
